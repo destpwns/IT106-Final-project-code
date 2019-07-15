@@ -1,3 +1,5 @@
+[FOR EDUCATIONAL PURPOSES ONLY].
+
 When you run this code, you will be asked "Would you like to play?"
 
 Input the character "Y" if you would like to continue, or "N" if you would like 
